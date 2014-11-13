@@ -8,6 +8,5 @@ Applications such as mobile banking manage and send over the net private informa
 f such attack is exploited. 
 Certificate Pinning is a technique that enforces the control over the authenticity and signature of the server 
 certificates used by the application to establish SSL connections. 
-This article proposes a programmatic approach to verifying that the application is using the intended certificate l
+This project proposes a programmatic approach to verifying that the application is using the intended certificate l
 everaging the repackaging controls provided by Worklight. 
-The article discusses advantages and drawbacks of such technique.
